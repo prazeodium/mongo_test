@@ -7,9 +7,8 @@ This code requires [Node.js](https://nodejs.org/) v16+ to run.
 First clone this repository from [GitHub](https://github.com/prazeodium/mongo_test.git)
 
 ```sh
-mkdir mongo-test
-cd mongo-test
 git clone https://github.com/prazeodium/mongo_test.git
+cd mongo_test
 ```
 
 Create `.env ` file and set your MongoDB URI
